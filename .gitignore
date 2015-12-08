@@ -1,0 +1,8 @@
+kicad/*.000
+kicad/*.bak
+kicad/*.bck
+kicad/$savepcb.brd
+kicad/_autosave-$savepcb.brd
+kicad/*.kicad_pcb-bak
+kicad/*.brd-bak
+kicad/*.dsn

@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Tue 12 May 2015 04:36:15 AM CEST
+
+BeginCmp
+TimeStamp = /551899AA;
+Reference = J1;
+ValeurCmp = 74320-1004;
+IdModule  = DVI-RECEPT-RA-HDMI;
+EndCmp
+
+BeginCmp
+TimeStamp = /554F9844;
+Reference = P1;
+ValeurCmp = HDMI_RECEPTACLE;
+IdModule  = HDMI-DVI;
+EndCmp
+
+EndListe
