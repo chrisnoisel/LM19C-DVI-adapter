@@ -1,3 +1,4 @@
 (fp_lib_table
+  (lib (name project)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
   (lib (name HDMI)(type Legacy)(uri "$(KIPRJMOD)/HDMI.mod")(options "")(descr ""))
 )
