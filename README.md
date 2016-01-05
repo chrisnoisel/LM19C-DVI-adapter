@@ -1,6 +1,6 @@
-# LM19C-DVI-adapter
+# LM19C-TMDS-adapter
 The LM19C is a 19" flat screen. It is old but I still use it.
-It has VGA and DVI inputs but the later uses a male VGA socket so I looked at the pcb and the pinout should be the following :
+It has VGA and TMDS (DVI/HDMI) inputs but the later uses a male VGA socket so I looked at the pcb and the pinout should be the following :
 
 ![Image of VGA plug](https://github.com/chrisnoisel/LM19C-DVI-adapter/raw/master/DE15_Connector_Pinout.png)
 
